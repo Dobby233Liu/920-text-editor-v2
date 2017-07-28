@@ -35,13 +35,13 @@
 1. you can use the “Preferences” menu “Donate” page to the donate it  
 
 
-##920文本编辑器
+## 920文本编辑器
 **920文本编辑器现更名为920编辑器，它是一款运行于Android上免费、开源、永无广告的文本编辑器，支持多标签，语法高亮等等..**
  
 ### 特色功能:
 1. 多标签，你可以在不同的标签打开不同的文件，方便你在不同的文本之本切换编辑
 1. 语法高亮:ASP, ActionScript, C/C++, C#, Erlang, Frink, HTML/XML/WML, CSS, Javascript, Java, JSP, Perl, PowerShell
-       , PHP, Python, Shell/Bash, Lua, SQL, VB/VBS, Tcl, TeX/LaTeX, Verilog, AutoHotKey, AutoLisp, Pascal等等...
+, PHP, Python, Shell/Bash, Lua, SQL, VB/VBS, Tcl, TeX/LaTeX, Verilog, AutoHotKey, AutoLisp, Pascal等等...
 1. 显示行号
 1. 显示空白字符（制表符，换行符）
 1. 自动检测打开的文件编码，同时你也可以转换当前文件编码，支持
@@ -66,6 +66,6 @@
  
 **Special thanks to donated friend (特别感谢捐赠了的朋友):**
 
-You can download from:
+You can download from (你可以在这些地方下载):
 * [https://play.google.com/store/apps/details?id=com.jecelyin.editor.v2](https://play.google.com/store/apps/details?id=com.jecelyin.editor.v2)
 * [https://github.com/jecelyin/920-text-editor-v2/releases](https://github.com/jecelyin/920-text-editor-v2/releases)
